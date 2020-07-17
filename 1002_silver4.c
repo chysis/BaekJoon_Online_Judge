@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-// 두 원의 중심과 반지름이 주어졌을 때 교점의 개수를 출력
+// 두 원의 중심과 각각의 반지름이 주어졌을 때 두 원의 교점의 개수를 출력
 int CompareRadius(int r1, int r2, int opt)
 {
     if (opt == 1) // 두 반지름의 합 계산
