@@ -1,2 +1,2 @@
 # BaekJoon_Silver
-Baekjoon Programming Problem Code - Difficulty : Silver
+Baekjoon Online Judge (BOJ) Problem Code - Difficulty : Silver
