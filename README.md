@@ -1,5 +1,5 @@
 # BaekJoon_Online_Judge
-Baekjoon Online Judge (BOJ) Problem Code : https://www.acmicpc.net/
+Baekjoon Online Judge (BOJ) Solution Code : https://www.acmicpc.net/
 
 * 문제의 난이도 판단은 solved.ac 커뮤니티 프로젝트로부터 제공되었다.
 * 종합적인 난이도를 고려하여 Bronze -> Silver -> Gold -> Platinum -> Diamond -> Ruby 순으로 티어가 높아진다.
